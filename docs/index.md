@@ -3,7 +3,8 @@
 ### This is an introductive information research in order to lay my foundations about this software developement approach as final project to obtain my technical software development higher certificate 👨‍🎓
 -----
 This is MY experience after months of studying DDD, hexagonal architecture and CQRS
-I have taken info from many different sources, which are pretty referenced on the bibliography part
+I have taken info from many different sources, which are pretty referenced on the bibliography part.
+There is a [practical back](https://github.com/jmiquis/TFG-DDD-demo) to this report. 
 
 
 INDEX
@@ -13,7 +14,7 @@ INDEX
 ### - [INTRODUCTION](https://jmiquis.github.io/TFG-DDD-Theoretical/introduction)
 ### - [HEXAGONAL ARCHITECTURE](https://jmiquis.github.io/TFG-DDD-Theoretical/hexagonal-architecture)
 ### - [EVENT STORMING](https://jmiquis.github.io/TFG-DDD-Theoretical/event-storm)
-### - [STRATEGIC DDD]()
+### - [STRATEGIC DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/strategic-DDD)
 
 -----
 
