@@ -10,7 +10,7 @@ I have taken info from many different sources, which are pretty referenced on th
 INDEX
 -----
 
-### - INTRODUCTION
-### - [HEXAGONAL ARCHITECTURE](https://github.com/jmiquis/TFG-Theoretical/blob/master/docs/hexagonal/hexagonal_architecture.md)
-### - [EVENT STORMING](TFG-Theoretical/docs/event_storm.md)
+### - [INTRODUCTION](/docs/introduction.md)
+### - [HEXAGONAL ARCHITECTURE](/docs/hexagonal_architecture.md)
+### - [EVENT STORMING](/docs/event_storm.md)
 ### - TACTICAL DDD
