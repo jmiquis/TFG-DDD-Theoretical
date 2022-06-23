@@ -1,3 +1,7 @@
+layout: page
+title: "event-storming"
+permalink: /event-storm
+
 # Event Storming 🕴️ 🧑‍💼 👨‍💻
 --- 
 Event storming is a meeting in which business experts, IT department and developers try to discover the app main functionalities.
