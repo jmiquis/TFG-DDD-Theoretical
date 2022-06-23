@@ -44,6 +44,6 @@ example of an event storm wallboard https://en.wikipedia.org/wiki/Event_storming
 [![Alberto Brandollini's talk](http://img.youtube.com/vi/mLXQIYEwK24/0.jpg)](http://www.youtube.com/watch?v=mLXQIYEwK24 "video")
 
 
-- https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d
-- https://www.eventstorming.com/
-- https://es.slideshare.net/ziobrando
+- [practical experience event storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
+- [alberto brabdollini's official site](https://www.eventstorming.com/)
+- [slideshare from alberto brandollini](https://es.slideshare.net/ziobrando)
