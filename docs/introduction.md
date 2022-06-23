@@ -10,3 +10,7 @@ Later, in 2013, Vaugh Vernon made an statement publishing _Implementing Domain D
 DDD provides software of a large maintainability and scalability capacity, but it takes a lot much more effort and resources than other development approaches, so it's desirable to have good reasons to start the process of develope an app following DDD approach.
 DDD involve many patterns which are also applicable to some other ways of working. 
 For instance, value object pattern can be used in our day-to-day work.
+
+---
+## [index](https://jmiquis.github.io/TFG-Theoretical/) 
+---
