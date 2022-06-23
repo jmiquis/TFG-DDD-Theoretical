@@ -28,5 +28,5 @@ Due to the complexity of DDD, it's a must to plan our actions and define some ba
 - [Big ball of mud](https://thedomaindrivendesign.io/big-ball-of-mud/)
 
 ---
-# [INDEX](jmiquis.github.io/tfg-ddd-theoretical/)
-
+## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
+---
