@@ -1,6 +1,6 @@
 # Introduction to DDD, hexagonal architecture and CQRS with Spring Boot and Axon  👶 📖
 
-### This is an introductive information research in order to lay my foundations about this software developement approach as a part of a Certificate of higher education in Web developement's final project. 👨‍🎓
+### This is an introductive information research in order to lay my foundations about this software developement approach as final project to obtain my technical software development higher certificate 👨‍🎓
 -----
 This is MY experience after months of studying DDD, hexagonal architecture and CQRS
 I have taken info from many different sources, which are pretty referenced on the bibliography part
