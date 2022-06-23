@@ -1,4 +1,8 @@
-## 🥇 Introduction
+layout: page
+title: "introduction"
+permalink: /introduction
+
+# 🥇 Introduction
 --- 
 Domain Driven Design (DDD) is a software design approach which is mainly focused on business needs.
 The concept was coined buy Eric Evans in his 2003 book  _Domain-Driven Design: Tackling Complexity in the Heart of Software_
