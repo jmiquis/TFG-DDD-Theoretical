@@ -50,5 +50,5 @@ example of an event storm wallboard https://en.wikipedia.org/wiki/Event_storming
 - [slideshare from alberto brandollini](https://es.slideshare.net/ziobrando)
 
 ---
-## [index](https://jmiquis.github.io/TFG-Theoretical/) 
+## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
 ---
