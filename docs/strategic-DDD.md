@@ -13,7 +13,7 @@ Due to the complexity of DDD, it's a must to plan our actions and define some ba
 
  - Modules ❔ are a logic division inside bounded contexts. Usually are kind of namespaces that hosts the parts of the same concept (user,userRepository...)
 
- - Ubiquitous language 🗣️ We can think about the language we use within our team that everyone will understand every concept the same way and it is not necessarily like this. I understood like this : User for IT is a role, for accounting department is a bank account and for delivery department is an address. This makes necessary to create a standart and the translation from business to code.
+ - Ubiquitous language 🗣️ Maybe we could think that the language we use within our team will be understood by everyone in the same way and it is not necessarily like this. I understood like this : User, for IT is a role, for accounting department is a bank account and for delivery department is an address. This makes necessary to create a standart and the translation from business to code.
 
 - Context Mapping 🗺️ Identify bounded context and, more important, their relationships : 
   - Shared kernell are the shared methods, clases, events... which can be used by more than one BC or even more than one module
