@@ -9,7 +9,7 @@ permalink: /strategical
 Modelling our app is a prior step to coding, but absolutely essential.
 Due to the complexity of DDD, it's a must to plan our actions and define some basic concepts and put it together:
 
- - Bounded context 🔴 🔵 🟤   Eric Evans defined it like "_An operational definition of where a particular model is well-defined and applicable. Typically a sub-system, or the work owned by a particular team_. ". I've read many bounded context definitions but I remember ther better one which was something like: "1 bounded context = 1 independent team = 1 infrastructure". I think this is easier to figure out what it is givin some example like this.
+ - Bounded context 🔴 🔵 🟤   Eric Evans defined it like "_An operational definition of where a particular model is well-defined and applicable. Typically a sub-system, or the work owned by a particular team_. ". I've read many bounded context definitions but I remember the better one which was something like: "1 bounded context = 1 independent team = 1 infrastructure". I think this is easier to figure out what it is givin some example like this.
 
  - Modules ❔ are a logic division inside bounded contexts. Usually are kind of namespaces that hosts the parts of the same concept (user,userRepository...)
 
