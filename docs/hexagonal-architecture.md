@@ -12,7 +12,7 @@ In order to create a more maintenable and replaceable code, exists a dependency 
 about itself and the immediately inner layer.
 
 
-![architecture diagram](https://github.com/jmiquis/TFG-Theoretical/blob/master/docs/images/500px-Hexagonal_Architecture.svg.png)
+![architecture diagram](images/500px-Hexagonal_Architecture.svg.png)
 
 [wikipedia domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design)
 
