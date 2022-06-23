@@ -1,4 +1,4 @@
-layout: page
+
 title: "introduction"
 permalink: /introduction
 
