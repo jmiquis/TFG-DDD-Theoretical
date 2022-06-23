@@ -16,7 +16,7 @@ Due to the complexity of DDD, it's a must to plan our actions and define some ba
  - Ubiquitous language 🗣️ Maybe we could think that the language we use within our team will be understood by everyone in the same way and it is not necessarily like this. I understood like this : User, for IT is a role, for accounting department is a bank account and for delivery department is an address. This makes necessary to create a standart and the translation from business to code.
 
 - Context Mapping 🗺️ Identifying bounded context and, more important, their relationships : 
-  - Shared kernell are the shared methods, clases, events... which can be used by more than one BC or even more than one module
+  - Shared kernell are shared clases which can be used by more than one BC or even more than one module
   - Big ball of mud is the 🍝 code, the legacy which nobody want to toch just beacuse if it blows. DDD also is about transforming this legacy code into a pretty well structured code.
 
 
