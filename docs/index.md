@@ -11,7 +11,7 @@ INDEX
 -----
 
 
-### - [INTRODUCTION](/docs/introduction)
-### - [HEXAGONAL ARCHITECTURE](/docs/hexagonal_architecture)
-### - [EVENT STORMING](/docs/event_storm)
+### - [INTRODUCTION](/docs/introduction.md)
+### - [HEXAGONAL ARCHITECTURE](/docs/hexagonal_architecture.md)
+### - [EVENT STORMING](/docs/event_storm.md)
 ### - TACTICAL DDD
