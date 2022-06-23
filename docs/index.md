@@ -15,3 +15,12 @@ INDEX
 ### - [HEXAGONAL ARCHITECTURE](https://jmiquis.github.io/TFG-Theoretical/hexagonal-architecture)
 ### - [EVENT STORMING](https://jmiquis.github.io/TFG-Theoretical/event-storm)
 ### - TACTICAL DDD
+
+-----
+
+sources
+
+- Great courses platform, not only DDD but many advanced content [codely pro](https://codely.com/)
+- Also from codely, I used this boilerplate to keep as reference [codely boilerplate](https://github.com/CodelyTV/java-ddd-skeleton)
+- This book really helped me a lot to understand (at least try) DDD using PHP examples [DDD by examples in PHP](https://www.amazon.es/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948)
+- Amazing complete github repo about DDD [heynickc repository](https://github.com/heynickc/awesome-ddd)
