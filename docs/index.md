@@ -11,9 +11,9 @@ INDEX
 -----
 
 
-### - [INTRODUCTION](https://jmiquis.github.io/TFG-Theoretical/introduction)
-### - [HEXAGONAL ARCHITECTURE](https://jmiquis.github.io/TFG-Theoretical/hexagonal-architecture)
-### - [EVENT STORMING](https://jmiquis.github.io/TFG-Theoretical/event-storm)
+### - [INTRODUCTION](https://jmiquis.github.io/TFG-DDD-Theoretical/introduction)
+### - [HEXAGONAL ARCHITECTURE](https://jmiquis.github.io/TFG-DDD-Theoretical/hexagonal-architecture)
+### - [EVENT STORMING](https://jmiquis.github.io/TFG-DDD-Theoretical/event-storm)
 ### - TACTICAL DDD
 
 -----
