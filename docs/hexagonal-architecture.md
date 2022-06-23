@@ -1,5 +1,5 @@
 layout: page
-title: "Hexagonal-architecture"
+title: "hexagonal-architecture"
 permalink: /hexagonal-architecture
 
 
