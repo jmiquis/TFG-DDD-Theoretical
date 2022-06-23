@@ -20,6 +20,35 @@ The most common content in this layer are the domain layer implementations and t
 
 - At last, domain layer is the richiest in terms of information and concepts. It holds the business rules which influences the entire app. The most common content here are interfaces and abstract classes, implemented later in the infrastructure layer.
 
+The transformation of the outter data into domain objects is made by the ports and adapter structure. A port takes incomming data and the adapter just tries to convert them.
+I have seen many ways to do this, so I developed my own example, in which the conversion takes place into the application layer.
+It can be performed by an specific service or even the use case itself.
+
+
+
+```@CommandHandler
+	public void createIncidence (CreateIncidenceCommand command) {
+		
+		List<String> allWorkers   = wokerRepo.getAllWorkers();
+		if(!allWorkers.contains(command.getCreator()))
+			throw new IllegalArgumentException("The id "+command.getCreator()+" doesn't match with any of our registered workers");
+		
+    // here is where the conversion begins. If any data is incorrect, an exception is raised
+    
+		final IncidenceId id                        = new IncidenceId(command.getId());
+		final WorkerId creator                      = new WorkerId(command.getCreator());
+		final IncidenceCreationTimeStamp createdOn  = new IncidenceCreationTimeStamp(Constants.TIMESTAMPS_FORMAT.format(new Date()));;
+		final IncidenceShortDescription description = new IncidenceShortDescription(command.getDescription());
+		
+		final Incidence incidence = Incidence.create(id,creator,createdOn,description);
+		incideceRepo.save(incidence);
+		eventBus.publish(incidence.pullDomainEvents());
+		
+	}
+
+```
+
+
 
 Referring to the directory structure
 ------
