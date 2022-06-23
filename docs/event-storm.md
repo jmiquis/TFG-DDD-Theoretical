@@ -1,4 +1,8 @@
-# Event Storming 🕴️ 🧑‍💼 👨‍💻
+---
+title: Event Storming 🕴️ 🧑‍💼 👨‍💻
+layout: template
+filename: event-storm.md
+---
 
 
 --- 
