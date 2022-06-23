@@ -24,3 +24,5 @@ sources
 - Also from codely, I used this boilerplate to keep as reference [codely boilerplate](https://github.com/CodelyTV/java-ddd-skeleton)
 - This book really helped me a lot to understand (at least try) DDD using PHP examples [DDD by examples in PHP](https://www.amazon.es/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948)
 - Amazing complete github repo about DDD [heynickc repository](https://github.com/heynickc/awesome-ddd)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjmiquis%2FTFG-Theoretical&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjmiquis%2FTFG-Theoretical)
