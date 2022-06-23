@@ -42,7 +42,7 @@ example of an event storm wallboard https://en.wikipedia.org/wiki/Event_storming
 
 
 #### Alberto Brandollini's talk(Event storm creator) 
-[![alberto brandollini talk](https://img.youtube.com/vi/mLXQIYEwK24/0.jpg)]
+![alberto brandollini talk](https://www.youtube.com/watch?v=mLXQIYEwK24/0.jpg](https://www.youtube.com/watch?v=mLXQIYEwK24)
 
 - https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d
 - https://www.eventstorming.com/
