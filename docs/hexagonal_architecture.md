@@ -1,4 +1,9 @@
-## Hexagonal Architecture 💠
+layout: page
+title: "Hexagonal-architecture"
+permalink: /hexagonal-architecture
+
+
+# Hexagonal Architecture 💠
 ---
 
 The hexagonal architecture is by far the most used architecture in terms of DDD.
