@@ -64,5 +64,5 @@ This video is the way I chose in order to structure my project.
 [codely directory structure](https://youtu.be/UFnABp2s8Y0)
 
 ---
-## [index](https://jmiquis.github.io/TFG-Theoretical/) 
+## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
 ---
