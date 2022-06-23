@@ -12,5 +12,5 @@ DDD involve many patterns which are also applicable to some other ways of workin
 For instance, value object pattern can be used in our day-to-day work.
 
 ---
-## [index](https://jmiquis.github.io/TFG-Theoretical/) 
+## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
 ---
