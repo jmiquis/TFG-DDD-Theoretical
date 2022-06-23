@@ -5,6 +5,7 @@ permalink: /event-storm
 # Event Storming 🕴️ 🧑‍💼 👨‍💻
 --- 
 Event storming is a meeting in which business experts, IT department and developers try to discover the app main functionalities.
+It was created by Alberto Brandollini
 
 ###### ingredients:
 - Tons of different colors sticky notes. Each color matches any part of our app following a standart.  🟧 🟦 🟪
@@ -45,5 +46,5 @@ example of an event storm wallboard https://en.wikipedia.org/wiki/Event_storming
 
 
 - [practical experience event storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
-- [alberto brabdollini's official site](https://www.eventstorming.com/)
+- [alberto brandollini's official site](https://www.eventstorming.com/)
 - [slideshare from alberto brandollini](https://es.slideshare.net/ziobrando)
