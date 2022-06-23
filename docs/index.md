@@ -12,10 +12,22 @@ INDEX
 -----
 
 
-### - [INTRODUCTION](https://jmiquis.github.io/TFG-DDD-Theoretical/introduction)
-### - [HEXAGONAL ARCHITECTURE](https://jmiquis.github.io/TFG-DDD-Theoretical/hexagonal-architecture)
-### - [EVENT STORMING](https://jmiquis.github.io/TFG-DDD-Theoretical/event-storm)
-### - [STRATEGIC DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/strategic-DDD)
+- [INTRODUCTION](https://jmiquis.github.io/TFG-DDD-Theoretical/introduction)
+- [HEXAGONAL ARCHITECTURE](https://jmiquis.github.io/TFG-DDD-Theoretical/hexagonal-architecture)
+- [EVENT STORMING](https://jmiquis.github.io/TFG-DDD-Theoretical/event-storm)
+- [STRATEGIC DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/strategic-DDD)
+- TACTICAL DDD
+    - Value objects
+    - Entities
+    - Repositories
+    - Aggregates
+    - Domain Events
+      - Event Bus
+      - Event handler
+    - CQRS
+      - Axon Framework
+      - Command Bus/ Handler
+      - Query Bus / handler    
 
 -----
 
