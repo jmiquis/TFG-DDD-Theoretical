@@ -20,7 +20,7 @@ Due to the complexity of DDD, it's a must to plan our actions and define some ba
   - Big ball of mud is the 🍝 code, the legacy which nobody want to toch just beacuse if it blows. DDD also is about transforming this legacy code into a pretty well structured code.
 
 
-### ❗ There are many better posts which bring us a lot of great info about strategic DDD. There is a recurrent think among DDD experts, and it is about the tremendous mistake avoid strategical DDD is.
+### ❗ There are tons of better posts which bring us a lot of great info about strategic DDD. There is a recurrent think among DDD experts, and it is about the tremendous mistake avoid strategical DDD is.
 ---
 ## some really good sources about strategic DDD
 - [tackling-business-complexity-with-strategic-domain-driven-design](https://inside.getyourguide.com/blog/2019/11/18/tackling-business-complexity-with-strategic-domain-driven-design)
