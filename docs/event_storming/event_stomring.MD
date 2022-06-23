@@ -26,6 +26,8 @@ What we are really doing here is creating our domain events.
     - pink -> some third party software e.g.: any payment platform
     - green -> User's view 
 
+This must be done within a pomodoro style, in 25 minutes sprints per group, in order to keep it dynamic
+
 ![example of an event storm wallboard](https://github.com/jmiquis/TFG-Theoretical/blob/master/docs/images/Event_Storming_example_process.jpg)
 
 example of an event storm wallboard https://en.wikipedia.org/wiki/Event_storming
