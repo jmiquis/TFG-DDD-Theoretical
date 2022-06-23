@@ -11,6 +11,6 @@ INDEX
 -----
 
 ### - INTRODUCTION
-### - HEXAGONAL ARCHITECTURE
+### - [HEXAGONAL ARCHITECTURE](https://github.com/jmiquis/TFG-Theoretical/tree/master/docs/hexagonal) 
 ### - EVENT STORMING
 ### - TACTICAL DDD
