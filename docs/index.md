@@ -4,6 +4,7 @@
 -----
 This is MY experience after months of studying DDD, hexagonal architecture and CQRS
 I have taken info from many different sources, which are pretty referenced on the bibliography part.
+
 There is a [practical back](https://github.com/jmiquis/TFG-DDD-demo) to this report. 
 
 
