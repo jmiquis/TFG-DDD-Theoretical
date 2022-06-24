@@ -68,7 +68,7 @@ An example :
 		}
 
 ```
-If we had to change the status of an Incidence we should do something like ❎`incidence1232343.status = new IncidenceStatus(proposed);` ❎  but we don't want that no class know about the inner classes of Incidence.class, so we just use the `changeStatus()` method and everything else is transparent.
+If we had to change the status of an Incidence we should do something like ❎`incidence1232343.status = new IncidenceStatus(proposed);` ❎  but we don't want that any class know about the inner classes of Incidence.class, so we just use the `changeStatus()` method and everything else is transparent.
 This is also a good software developing practice itself and of course it will appear more in this app.
 
 
