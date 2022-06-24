@@ -24,3 +24,8 @@ some good content about tactical DDD 🎦 📖
 - [microsoft azure DDD-Tactical approach](https://docs.microsoft.com/es-es/azure/architecture/microservices/model/tactical-ddd)
 - [![Carlos Buenosvinos talk (Spanish)](http://img.youtube.com/vi/uvKS6UCUZes/0.jpg)](http://www.youtube.com/watch?v=uvKS6UCUZes "Domain-Driven Design Tactical Patterns and CI at @AtrapaloEng")
 - [![DDD in spring microsystem](http://img.youtube.com/vi/a9dF7fnArq0/0.jpg)](http://www.youtube.com/watch?v=a9dF7fnArq0 "DDD in spring microsystem")
+
+
+---
+## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
+---
