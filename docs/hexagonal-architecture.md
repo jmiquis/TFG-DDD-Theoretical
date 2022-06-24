@@ -10,6 +10,7 @@ The hexagonal architecture is by far the most used architecture in terms of DDD.
 It is a layered architecture created by Allistair Cockburn in 2005 and it belongs to the _clean architecture group_.
 In order to create a more maintenable and replaceable code, exists a dependency rule, which only allows one layer _to know_
 about itself and the immediately inner layer.
+👁️‍ 🟥 A red light in terms of dependency rule are class imports. E.g: If we are in the infrastructure layer we only should be able to read both, infrastructure or application imports, but never a domain layer import. 
 
 
 ![architecture diagram](images/500px-Hexagonal_Architecture.svg.png)
@@ -54,14 +55,15 @@ It can be performed by an specific service or even the use case itself.
 ```
 
 
+## ❗ This is just a hex. architecture glimpse, made in an introductive way. There are tons of info about it on YT and really good posts.
 
 Referring to the directory structure
 ------
-This video is the way I chose in order to structure my project. 
+- [hexagonal arch. post](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
+- [![estructura carpetas](https://img.youtube.com/vi/y3MWfPDmVqo/0.jpg)](https://www.youtube.com/watch?v=y3MWfPDmVqo)
+- [![hexagonal upm](https://img.youtube.com/vi/zyOQ3tRL7mk/0.jpg)](https://www.youtube.com/watch?v=zyOQ3tRL7mk "spanish")
 
-[![estructura carpetas](https://img.youtube.com/vi/UFnABp2s8Y0/0.jpg)](https://www.youtube.com/watch?v=UFnABp2s8Y0)
 
-[codely directory structure](https://youtu.be/UFnABp2s8Y0)
 
 ---
 ## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
