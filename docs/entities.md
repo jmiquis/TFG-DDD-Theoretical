@@ -1,7 +1,7 @@
 layout: page
 title: "entities"
 permalink: /entities
----
+
 # Entities 👻
 ## layer : domain 🔴
 
