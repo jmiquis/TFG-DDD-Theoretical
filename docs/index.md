@@ -16,7 +16,7 @@ INDEX
 - [HEXAGONAL ARCHITECTURE](https://jmiquis.github.io/TFG-DDD-Theoretical/hexagonal-architecture)
 - [EVENT STORMING](https://jmiquis.github.io/TFG-DDD-Theoretical/event-storm)
 - [STRATEGIC DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/strategic-DDD)
-- TACTICAL DDD
+- [TACTICAL DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/tactical-DDD)
     - [Value objects](https://jmiquis.github.io/TFG-DDD-Theoretical/value-objects-DDD)
     - Entities
     - Repositories
