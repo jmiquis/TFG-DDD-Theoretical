@@ -1,5 +1,5 @@
 layout: page
-title: "Entities"
+title: "entities"
 permalink: /entities
 ---
 # Entities 👻
