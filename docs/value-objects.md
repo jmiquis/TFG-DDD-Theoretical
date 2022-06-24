@@ -17,7 +17,7 @@ E.g: If we have 2 _color_ value objects, and it's attribute "color" is 'red', th
 ```
 `true` 
 
-#### To change a VO value, we don't really just change it. We create another one whith the new value :
+#### To change a VO value, we don't really just change it. We create another one with the new value :
 This makes value objects **INMUTABLES** and **side effect free**.
 
 ```
