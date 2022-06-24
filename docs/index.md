@@ -17,7 +17,7 @@ INDEX
 - [EVENT STORMING](https://jmiquis.github.io/TFG-DDD-Theoretical/event-storm)
 - [STRATEGIC DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/strategic-DDD)
 - TACTICAL DDD
-    - Value objects
+    - [Value objects](https://jmiquis.github.io/TFG-DDD-Theoretical/tactical-DDD)
     - Entities
     - Repositories
     - Aggregates
