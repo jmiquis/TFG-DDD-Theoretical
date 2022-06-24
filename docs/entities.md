@@ -59,7 +59,7 @@ public class Incidence extends AggregateRoot{
 ```
 
 
-###❗ One important I learnt during this research was [_the law of Demeter_](https://en.wikipedia.org/wiki/Law_of_Demeter) 🇬🇷 👍 which helps us to loose coupling among classes.
+###❗ One important I thing learnt during this research was [_the law of Demeter_](https://en.wikipedia.org/wiki/Law_of_Demeter) 🇬🇷 👍 which helps us to loose coupling among classes.
 An example :
 
 ```
