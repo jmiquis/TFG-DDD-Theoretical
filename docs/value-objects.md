@@ -87,7 +87,7 @@ private void emailValidator(String proposedEmail) {
   
 
 DDD purists won't like this 🔪 , but I have used annotations in this project. 
-Their reason : Every annotation is an infrastructure leak which will made our domain framwork's dependent. In a long term we will have to change this and it will became a problem 100 %.
+Their reason : Every annotation is an infrastructure leak which will made our domain a framework's slave. In a long term we will have to change this and it will became a problem 100 %.
 My reason : I'm just arrived to DDD and I didn't want to add extra complexity to this project.
 
 There are many valid annotations in order to create a VO:
