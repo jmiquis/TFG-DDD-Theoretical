@@ -10,6 +10,7 @@ The hexagonal architecture is by far the most used architecture in terms of DDD.
 It is a layered architecture created by Allistair Cockburn in 2005 and it belongs to the _clean architecture group_.
 In order to create a more maintenable and replaceable code, exists a dependency rule, which only allows one layer _to know_
 about itself and the immediately inner layer.
+
 👁️‍ 🟥 A red light in terms of dependency rule are class imports. E.g: If we are in the infrastructure layer we only should be able to read both, infrastructure or application imports, but never a domain layer import. 
 
 
