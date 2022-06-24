@@ -56,7 +56,7 @@ public class Worker{
 ```
 
 Value objects are also auto-checked classes. This means that if a VO is instantiated, it is valid. No matter where.
-This possible thanks to validations in the very same constructor of the class as guard clauses.
+This possible because of validations are in the very same class constructor as guard clauses.
 
 ```
 //VALIDATOR
@@ -81,7 +81,6 @@ private void emailValidator(String proposedEmail) {
     //validator
 		emailValidator(proposedEmail);  
     //instantiation
-		this.value=proposedEmail;
 		this.WorkerEmail=proposedEmail;
 	}
   ```
