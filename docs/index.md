@@ -18,7 +18,7 @@ INDEX
 - [STRATEGIC DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/strategic-DDD)
 - [TACTICAL DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/tactical-DDD)
     - [Value objects](https://jmiquis.github.io/TFG-DDD-Theoretical/value-objects)
-    - [Entities](https://jmiquis.github.io/TFG-DDD-Theoretical/entites)
+    - [Entities](https://jmiquis.github.io/TFG-DDD-Theoretical/entities)
     - Repositories
     - Aggregates
     - Domain Events
