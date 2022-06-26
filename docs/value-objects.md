@@ -75,7 +75,7 @@ This possible because of validations are in the very same class constructor as g
 						throw new IllegalArgumentException("the email "+proposedEmail+(" is not a corporative valid one"));
 					}
 				}
-  ---------------------------------
+                          ---------------------------------
   
 			  // CONSTRUCTOR
 			  public WorkerEmail(String proposedEmail) {
