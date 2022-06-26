@@ -7,7 +7,7 @@ permalink: /value-objects
 # Value objects 🧱
 ## layer : domain 🔴
 
-#### Value objects are indentityless classes (no id) which describe, meassure or quantify, and are identified by their attributes.
+#### Value objects are indentityless classes (no id) which describe, meassure or quantify, and are identified by their own attributes.
 E.g: If we have 2 _color_ value objects, and it's attribute "color" is 'red', there are no 2 VO, they are the same one.
 
 ```
