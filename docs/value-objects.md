@@ -21,7 +21,7 @@ E.g: If we have 2 _color_ value objects, and it's attribute "color" is 'red', th
 ``` 
 
 #### To change a VO value, we don't really just change it. We create another one with the new value :
-This makes value objects **INMUTABLES** and **side effect free**.
+This makes value objects **IMMUTABLES** and **side effect free**.
 
 ```
         public static WorkerEmail changeEmail(String newEmail) {
