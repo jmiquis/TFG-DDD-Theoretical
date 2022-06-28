@@ -6,7 +6,7 @@ permalink: /entities
 ## layer : domain 🔴
 
 
-The most common example use to explain a DDD entity is _person_. A person  is well differenced to another beacuse of a unique Id number. We have seen examples like this hundred of times.
+The most common example used to explain a DDD entity is _person_. A person  is well differenced to another beacuse of a unique Id number. We have seen examples like this hundred of times.
 
 In terms of code ,an entity no more than a classic class with its unique Id, its own methods and attributes, but remember that **these attributes are value objects** 
 
@@ -59,7 +59,7 @@ public class Incidence extends AggregateRoot{
 ```
 
 
-###❗ One important I thing learnt during this research was [_the law of Demeter_](https://en.wikipedia.org/wiki/Law_of_Demeter) 🇬🇷 👍 which helps us to loose coupling among classes.
+### ❗ One important I thing learnt during this research was [_the law of Demeter_](https://en.wikipedia.org/wiki/Law_of_Demeter) 🇬🇷 👍 which helps us to loose coupling among classes.
 An example :
 
 ```
