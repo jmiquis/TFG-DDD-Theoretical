@@ -83,8 +83,10 @@ package com.incidences.application.assign;
 ```
 
 ## ❗ You should not be able to create a child class by itself.
-
-
+---
+Some great content about aggregates:
+- [Aggregates in Domain Driven Design](https://medium.com/ingeniouslysimple/aggregates-in-domain-driven-design-5aab3ef9901d)
+- [![Carlos Buenosvinos talk Spanish](http://img.youtube.com/vi/lIVVX-RnGps/0.jpg)](http://www.youtube.com/watch?v=lIVVX-RnGps "Domain-Driven Design: Aggregates (Spanish)")
 ---
 ## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
 ---
