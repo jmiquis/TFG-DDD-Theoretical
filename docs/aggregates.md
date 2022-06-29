@@ -4,7 +4,7 @@ permalink: /aggregates
 
 # Aggregates 👨‍👨‍👧
 
-## layer domain 🔴
+## layer : domain 🔴
 
 The aggregate concept was one the most 🤯 in all DDD, at least for me. 
 I have read many aggregate definitions but if I have to choose one of them, I will choose this : "Its a group of entities wherein the consistency must be transactional".
@@ -84,7 +84,7 @@ package com.incidences.application.assign;
 
 ## ❗ You should not be able to create a child class by itself.
 ---
-Some great content about aggregates:
+### Some great content about aggregates:
 - [Aggregates in Domain Driven Design](https://medium.com/ingeniouslysimple/aggregates-in-domain-driven-design-5aab3ef9901d)
 - [![Carlos Buenosvinos talk Spanish](http://img.youtube.com/vi/lIVVX-RnGps/0.jpg)](http://www.youtube.com/watch?v=lIVVX-RnGps "Domain-Driven Design: Aggregates (Spanish)")
 ---
