@@ -19,8 +19,8 @@ INDEX
 - [TACTICAL DDD](https://jmiquis.github.io/TFG-DDD-Theoretical/tactical-DDD)
     - [Value objects](https://jmiquis.github.io/TFG-DDD-Theoretical/value-objects)
     - [Entities](https://jmiquis.github.io/TFG-DDD-Theoretical/entities)
-    - Repositories
-    - Aggregates
+    - [Repositories](https://jmiquis.github.io/TFG-DDD-Theoretical/repositories)
+    - [Aggregates](https://jmiquis.github.io/TFG-DDD-Theoretical/aggregates)
     - Domain Events
       - Event Bus
       - Event handler
