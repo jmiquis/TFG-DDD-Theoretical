@@ -71,7 +71,7 @@ package com.incidences.application.assign;
 		if(!incidenceRepository.allIncidencesId().contains(incidenceId.getIncidenceId())) 
 			throw new IllegalArgumentException("This id doesn't match any registered incidence id");		
 		
-    //Here is instantiated. Before I had instantiated the root class
+    		//Here is instantiated. Before I had instantiated the root class
 		IncidenceAssignation assignation = incidence.assignIncidenceToWorker(assignee); 
 		
 		incidence.changeStatus("ASSIGNED");
@@ -82,7 +82,7 @@ package com.incidences.application.assign;
 
 ```
 
-
+## ❗ You should not be able to create a child class by itself.
 
 
 ---
