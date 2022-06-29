@@ -23,9 +23,9 @@ INDEX
     - [Aggregates](https://jmiquis.github.io/TFG-DDD-Theoretical/aggregates)
     - [Domain Events](https://jmiquis.github.io/TFG-DDD-Theoretical/domain-events)
       - [Event Bus](https://jmiquis.github.io/TFG-DDD-Theoretical/event-bus)
-    - CQRS
-      - Command Bus/ Handler
-      - Query Bus / handler    
+    - [CQRS](https://jmiquis.github.io/TFG-DDD-Theoretical/CQRS)
+      - [Command Bus/ Handler](https://jmiquis.github.io/TFG-DDD-Theoretical/command-handling)
+      - [Query Bus / handler](https://jmiquis.github.io/TFG-DDD-Theoretical/query-handling)
 
 -----
 
