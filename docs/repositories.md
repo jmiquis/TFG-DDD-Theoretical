@@ -59,7 +59,7 @@ public class WorkerRepositoryMysqlImplementation implements WorkerRepository {
 	
 	
 	@Override
-	@Transactional // This annotation is necessary for save methods
+	@Transactional // This annotation is necessary for saving methods
 	public void save(Worker worker) {
 		 entityManager.persist(worker);
 		 entityManager.close();
