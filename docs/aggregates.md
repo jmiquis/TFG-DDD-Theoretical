@@ -51,6 +51,40 @@ public class Incidence extends AggregateRoot{
 ```
 
 
+Now, we are going to see how the child class is instantiated
+
+```
+package com.incidences.application.assign;
+
+@CommandHandler
+	@Transactional
+	public void assign(AssignIncidenceCommand command) {
+		WorkerId assignee       = new WorkerId(command.getAssignee());	
+		
+		if(!workerReporsitory.getAllWorkers().contains(assignee.getWorkerId())) 
+			throw new IllegalArgumentException("This id doesn't match any registered worker id");
+		
+		IncidenceId incidenceId          = new IncidenceId (command.getIncidenceId());
+		Incidence incidence              = incidenceRepository.searchById(incidenceId);
+		
+		
+		if(!incidenceRepository.allIncidencesId().contains(incidenceId.getIncidenceId())) 
+			throw new IllegalArgumentException("This id doesn't match any registered incidence id");		
+		
+    //Here is instantiated. Before I had instantiated the root class
+		IncidenceAssignation assignation = incidence.assignIncidenceToWorker(assignee); 
+		
+		incidence.changeStatus("ASSIGNED");
+		incidenceRepository.addAsignee(assignation);
+		eventBus.publish(incidence.pullDomainEvents());
+		
+	}
+
+```
+
+
+
+
 ---
 ## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
 ---
