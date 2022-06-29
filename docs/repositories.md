@@ -7,7 +7,7 @@ permalink: /repositories
 # Repositories 🏠
 ## layer : domain 🔴 / infrastructure 🟢
 
-#### Repository pattern is the way that DDD has to decouple domain and infrastructure in terms of entities.
+#### Repository pattern is the way that DDD has to decouple domain and infrastructure in terms of entities.They are the entities persistance manager classes.
 
 - First, in domain layer 🔴, you have to create an **INTERFACE** which does something (usually CRUD methods) but you only specify **WHAT** the repository does.
 ```
@@ -68,3 +68,15 @@ public class WorkerRepositoryMysqlImplementation implements WorkerRepository {
   rest of methods
 
 ```
+In my opinion, the most repository method influenced by business rules are searchs (e.g: search all entities following some criteria), but maybe a company just saves entities which "starts with R" or whatever. 
+As I said this is only my experience. I'm sure there will be many different opinions.
+
+---
+some interesting external links :
+
+- [microsoft - Repositoy pattern](https://docs.microsoft.com/es-es/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)
+
+
+---
+## [index](https://jmiquis.github.io/TFG-DDD-Theoretical/) 
+---
