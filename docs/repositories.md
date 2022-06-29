@@ -10,6 +10,8 @@ permalink: /repositories
 #### Repository pattern is the way that DDD has to decouple domain and infrastructure in terms of entities.They are the entities persistance manager classes.
 
 - First, in domain layer 🔴, you have to create an **INTERFACE** which does something (usually CRUD methods) but you only specify **WHAT** the repository does.
+
+
 ```
 package com.workers.domain;
 
