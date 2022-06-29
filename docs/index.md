@@ -21,7 +21,7 @@ INDEX
     - [Entities](https://jmiquis.github.io/TFG-DDD-Theoretical/entities)
     - [Repositories](https://jmiquis.github.io/TFG-DDD-Theoretical/repositories)
     - [Aggregates](https://jmiquis.github.io/TFG-DDD-Theoretical/aggregates)
-    - Domain Events
+    - [Domain Events](https://jmiquis.github.io/TFG-DDD-Theoretical/domain-events)
       - Event Bus
       - Event handler
     - CQRS
