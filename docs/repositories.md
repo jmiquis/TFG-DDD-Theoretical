@@ -11,7 +11,6 @@ permalink: /repositories
 
 - First, in domain layer 🔴, you have to create an **INTERFACE** which does something (usually CRUD methods) but you only specify **WHAT** the repository does.
 
-
 ```
 package com.workers.domain;
 
