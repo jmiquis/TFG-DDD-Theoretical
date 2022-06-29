@@ -23,7 +23,6 @@ INDEX
     - [Aggregates](https://jmiquis.github.io/TFG-DDD-Theoretical/aggregates)
     - [Domain Events](https://jmiquis.github.io/TFG-DDD-Theoretical/domain-events)
       - Event Bus
-      - Event handler
     - CQRS
       - Axon Framework
       - Command Bus/ Handler
