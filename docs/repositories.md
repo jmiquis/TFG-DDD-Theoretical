@@ -77,7 +77,7 @@ As I said this is only my experience. I'm sure there will be many different opin
 ---
 some interesting external links :
 
-- [microsoft - Repositoy pattern](https://docs.microsoft.com/es-es/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)
+- [microsoft - Repository pattern](https://docs.microsoft.com/es-es/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)
 
 
 ---
