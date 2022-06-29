@@ -40,7 +40,7 @@ import lombok.Getter;
 
 public class IncidenceWasAssigned extends DomainEvent {
 
-	@TargetAggregateIdentifier // axon annoptation in ordder to identify the event id
+	@TargetAggregateIdentifier // axon annotation in order to identify the event id
 	private final String incidenceId;
 	private final String ocurredOn;
 	private final String assignee;
@@ -61,7 +61,7 @@ public class IncidenceWasAssigned extends DomainEvent {
   
   // rest of the class
 ```
-
+As you can see above domain events work with primitives, not value objects.
 
 When the domain event is created in the application layer, we create the event listener method, which will be waiting for the event be released.
 It's important to say that the event listener should be in the application layer. 
