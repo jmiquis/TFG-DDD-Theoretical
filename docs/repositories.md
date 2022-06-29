@@ -30,7 +30,7 @@ public interface WorkerRepository {
 }
 ```
 
-- Later, in domain 🟢 layer, you have to instantiate that interface in ordfer to tell the app **HOW** to accomplish the task of each method. Is in this layer where SQL commands, transactions, MongoDB... may appear. Nowhere else.
+- Later, in domain 🟢 layer, you have to implement the interface in order to _tell_ the app **HOW** to accomplish the task of each method. Is in this layer where SQL commands, transactions, MongoDB... may appear. Nowhere else.
 
 
 ```
