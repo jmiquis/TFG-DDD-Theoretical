@@ -24,7 +24,6 @@ INDEX
     - [Domain Events](https://jmiquis.github.io/TFG-DDD-Theoretical/domain-events)
       - [Event Bus](https://jmiquis.github.io/TFG-DDD-Theoretical/event-bus)
     - CQRS
-      - Axon Framework
       - Command Bus/ Handler
       - Query Bus / handler    
 
