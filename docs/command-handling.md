@@ -47,9 +47,12 @@ public class CommandBusAxonImplementation implements CommandBus{
 }
  
  ```
+ 
  # command handler 🪖 ✋
  
  - First in the controller: 
+ 
+ 
  ```
  @RestController
 public class AssignNewIncidencePutController {
